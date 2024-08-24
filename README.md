@@ -1,1 +1,1 @@
-# Eye-disease-detection
+# Eye-Disease-Detection-App
